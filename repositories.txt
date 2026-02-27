@@ -9022,3 +9022,4 @@ https://github.com/ArscottT/ADS7128-Arduino-Library
 https://github.com/tanmaywankar/Grobot_Animations
 https://github.com/toastmanAu/TelegramSerial
 https://github.com/7semi-solutions/7Semi-BNO08x-9-DOF-Orientation-IMU-Fusion
+https://github.com/7semi-solutions/7Semi_AD569x_Arduino_Library
